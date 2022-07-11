@@ -14,6 +14,6 @@ Currently working full time, but will be updating the repositories from time to 
    <br />
 
 <p dir="auto">
-  <strong>©<a href="https://github.com/Googool">Googol</a>
+  <strong>©<a href="https://github.com/Googool">Googool</a>
   </strong>
 </p>
