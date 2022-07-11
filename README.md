@@ -3,5 +3,6 @@
 <h3 align="left">Tools and languages</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/27480c90b7f92ea1405594b9e98e151b776c0830e3bb2d80b92656c342bfdf09/68747470733a2f2f692e696d6775722e636f6d2f4c775364416c452e706e67" data-canonical-src="https://i.imgur.com/LwSdAlE.png" style="max-width: 100%;">
 <img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" data-canonical-src="https://i.imgur.com/LwSdAlE.png" style="max-width: 100%;">
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width: 100%;">
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%;">
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width: 100%;">
+
