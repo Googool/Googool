@@ -1,2 +1,1 @@
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Googol"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Googol" /></a></p><br><br>
+<a href="https://ko-fi.com/Googol" rel="nofollow"><img src="https://camo.githubusercontent.com/cd07f1a5d90e454e7bbf69d22ebe4cdbd3a0b3dcf56ba0b6c2495a8e99c776be/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667" alt="ko-fi" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;"></a>
