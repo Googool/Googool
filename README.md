@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi there, I'm Oerbaek! 👋</h3>
 I'm an electronics student from Denmark. <br />
-Currently working full time, but will be updating the repositories from time to time <br />
+Currently working full time, but I will be updating the repositories from time to time <br />
 
 <h3 align="left">Tools and languages 🚀</h3>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://camo.githubusercontent.com/27480c90b7f92ea1405594b9e98e151b776c0830e3bb2d80b92656c342bfdf09/68747470733a2f2f692e696d6775722e636f6d2f4c775364416c452e706e67" data-canonical-src="https://i.imgur.com/LwSdAlE.png" style="max-width: 100%;">
